@@ -1,0 +1,12 @@
+com.example.lucidify.app-core-1.6.0-0 C:\Users\pc\.gradle\caches\transforms-3\2d4da200475e862d13e76a6ed98e54db\transformed\core-1.6.0\res
+com.example.lucidify.app-jetified-window-java-1.0.0-beta04-1 C:\Users\pc\.gradle\caches\transforms-3\6b900ae3f33df21fc4ad91eec856a462\transformed\jetified-window-java-1.0.0-beta04\res
+com.example.lucidify.app-jetified-annotation-experimental-1.1.0-2 C:\Users\pc\.gradle\caches\transforms-3\e0315e924c7e9e33f713741c82edaae2\transformed\jetified-annotation-experimental-1.1.0\res
+com.example.lucidify.app-jetified-window-1.0.0-beta04-3 C:\Users\pc\.gradle\caches\transforms-3\ec9813e80025b1c0d93db6f041afe023\transformed\jetified-window-1.0.0-beta04\res
+com.example.lucidify.app-debug-4 C:\Users\pc\AndroidStudioProjects\course_flutter\android\app\src\debug\res
+com.example.lucidify.app-main-5 C:\Users\pc\AndroidStudioProjects\course_flutter\android\app\src\main\res
+com.example.lucidify.app-pngs-6 C:\Users\pc\AndroidStudioProjects\course_flutter\build\app\generated\res\pngs\debug
+com.example.lucidify.app-resValues-7 C:\Users\pc\AndroidStudioProjects\course_flutter\build\app\generated\res\resValues\debug
+com.example.lucidify.app-rs-8 C:\Users\pc\AndroidStudioProjects\course_flutter\build\app\generated\res\rs\debug
+com.example.lucidify.app-mergeDebugResources-9 C:\Users\pc\AndroidStudioProjects\course_flutter\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.lucidify.app-mergeDebugResources-10 C:\Users\pc\AndroidStudioProjects\course_flutter\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.lucidify.app-merged_res-11 C:\Users\pc\AndroidStudioProjects\course_flutter\build\app\intermediates\merged_res\debug
